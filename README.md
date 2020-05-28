@@ -1,11 +1,12 @@
 # Compare_two_files
-==========================
+-------------------------
 Ce projet en python permet de comparer deux fichiers et de donner la différence dans le fichier HTML 
 Un second fichier est produit et correspond à la version la plus recente des deux fichiers comparé.
 
 --------------------------
 
-#Utilisé le script
+#Utilisé le script :
+--------------------------
 Quand vous lancez le script python, vous devez donner le nom du premier fichier
 et ensuite celui du second fichier.
 
